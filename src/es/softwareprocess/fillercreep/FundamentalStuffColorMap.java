@@ -2,6 +2,7 @@ package es.softwareprocess.fillercreep;
 
 import android.graphics.Color;
 
+
 public class FundamentalStuffColorMap {
     static private int[] colors = null;
 

@@ -2,6 +2,7 @@ package es.softwareprocess.fillercreep;
 
 import android.graphics.Bitmap;
 
+
 public class GameController implements FController {
     FillerCreep fc = null;
 

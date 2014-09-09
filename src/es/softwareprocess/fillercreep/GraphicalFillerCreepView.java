@@ -2,6 +2,7 @@ package es.softwareprocess.fillercreep;
 
 import android.graphics.Bitmap;
 
+
 public class GraphicalFillerCreepView {
     Bitmap bitmap = null;
     FillerCreep fillerCreep = null;
